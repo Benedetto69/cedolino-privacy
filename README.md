@@ -1,8 +1,10 @@
-# Cedolino — Privacy Policy
+# Cedolino — Informativa privacy e supporto
 
-Privacy policy pubblica dell'app iOS **Cedolino** (analisi buste paga con AI on-device).
+Pagine pubbliche dell'app iOS **Cedolino**:
 
-La versione renderizzata è disponibile a: **https://benedetto69.github.io/cedolino-privacy/**
+- Informativa privacy: https://benedetto69.github.io/cedolino-privacy/
+- Supporto: https://benedetto69.github.io/cedolino-privacy/support.html
 
-Questa repo esiste per ottemperare al requisito Apple App Store / GDPR art. 13 di avere
-una privacy policy accessibile via URL pubblico.
+Il testo descrive il comportamento verificato dell'app (audit del 12/10/2026): elaborazione sul
+dispositivo, nessuna raccolta di dati da parte dello sviluppatore, connessioni solo verso
+GitHub (tavole fiscali pubbliche) e Apple (acquisti). Lo storico delle modifiche è in git.
