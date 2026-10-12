@@ -1,6 +1,6 @@
-# Cedolino — Informativa privacy e supporto
+# Svelapaga — Informativa privacy e supporto
 
-Pagine pubbliche dell'app iOS **Cedolino**:
+Pagine pubbliche dell'app iOS **Svelapaga** (nome di sviluppo: Cedolino; l'indirizzo resta `cedolino-privacy`):
 
 - Informativa privacy: https://benedetto69.github.io/cedolino-privacy/
 - Supporto: https://benedetto69.github.io/cedolino-privacy/support.html
