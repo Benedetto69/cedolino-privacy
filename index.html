@@ -19,57 +19,67 @@ th{background:#f3eedc}
 </head>
 <body>
 <h1>Informativa privacy — Cedolino</h1>
-<p class="meta">Versione 2.0 — aggiornata il 12 ottobre 2026. Sviluppatore: Benedetto Riba — <a href="mailto:info@benedettoriba.it">info@benedettoriba.it</a></p>
+<p class="meta">Versione 2.1 — aggiornata il 12 ottobre 2026. Titolare: Benedetto Riba — <a href="mailto:info@benedettoriba.it">info@benedettoriba.it</a></p>
 
 <div class="box">
-<p><strong>In breve.</strong> Cedolino legge e calcola tutto sul tuo iPhone. Lo sviluppatore non ha server che ricevono i tuoi cedolini e non raccoglie dati personali. L'app si collega a internet solo per scaricare tavole fiscali pubbliche (senza inviare tuoi dati) e per gli acquisti, che gestisce Apple. Nessuna pubblicità, nessuna analisi statistica, nessun tracciamento.</p>
+<p><strong>In breve.</strong> Cedolino legge e calcola i cedolini sul tuo iPhone. I cedolini e i dati che salvi non vengono inviati a server dello sviluppatore, che attraverso l'app non raccoglie dati personali. Ci sono però quattro casi in cui dei dati escono dall'app o arrivano allo sviluppatore, descritti qui sotto: il backup di iCloud o del computer, se lo hai attivato; il download delle tavole fiscali da GitHub, che riceve l'indirizzo IP; gli acquisti, gestiti da Apple; le email che scrivi all'assistenza. Nessuna pubblicità, nessuna analisi statistica, nessun tracciamento.</p>
 </div>
 
 <h2>1. Quali dati usa l'app e dove restano</h2>
 <table>
 <tr><th>Dato</th><th>Dove</th><th>Per cosa</th><th>Quanto resta</th></tr>
 <tr><td>Foto, scansioni o PDF del cedolino</td><td>Solo in memoria durante la lettura</td><td>Leggere il testo con l'OCR di Apple Vision, sul dispositivo</td><td>Non vengono salvati</td></tr>
-<tr><td>Valori del cedolino che confermi (importi, periodo, CCNL, livello, luogo, TFR, contatori)</td><td>Archivio dell'app sul dispositivo, file cifrati da iOS</td><td>Mostrarti cedolini, controlli, confronti ed esportazione</td><td>Finché non li elimini o disinstalli l'app</td></tr>
-<tr><td>Profilo fiscale (comune di residenza, mensilità, aliquota contributiva, contributi prima del 1996, tipo di contratto, giorni di lavoro) e ultima RAL inserita nel simulatore</td><td>Preferenze dell'app sul dispositivo</td><td>Calcolare il netto con le regole del tuo comune e contratto</td><td>Finché non li elimini o disinstalli l'app</td></tr>
+<tr><td>Valori del cedolino che confermi (importi, periodo, CCNL, livello, luogo, TFR, contatori)</td><td>Archivio dell'app sul dispositivo, file cifrati da iOS; copia nel backup di iCloud o del computer, se attivo</td><td>Mostrarti cedolini, controlli, confronti ed esportazione</td><td>Finché non li elimini o disinstalli l'app; nei backup, finché esistono i backup</td></tr>
+<tr><td>Profilo fiscale (comune di residenza, mensilità, aliquota contributiva, contributi prima del 1996, tipo di contratto, giorni di lavoro) e ultima RAL inserita nel simulatore</td><td>Preferenze dell'app sul dispositivo; copia nel backup, se attivo</td><td>Calcolare il netto con le regole del tuo comune e contratto</td><td>Come sopra</td></tr>
+<tr><td>Stato degli acquisti (prodotto, date, scadenza)</td><td>Fornito da Apple al dispositivo tramite StoreKit</td><td>Sbloccare Cedolino Pro</td><td>Gestito da Apple</td></tr>
 </table>
-<p>Un cedolino può contenere dati particolari, come i giorni di malattia o la trattenuta sindacale. Restano nell'archivio dell'app sul tuo dispositivo. L'app non legge e non salva codice fiscale o IBAN.</p>
-<p><strong>Backup.</strong> Come per le altre app, l'archivio è compreso nel backup del dispositivo (iCloud o computer) se lo hai attivato. Il backup è gestito da Apple secondo le sue condizioni. Cedolino non usa la sincronizzazione iCloud.</p>
+<p>Un cedolino può contenere dati particolari, come i giorni di malattia o la trattenuta sindacale. Restano nell'archivio dell'app sul tuo dispositivo e, se attivo, nel backup. L'app non legge e non salva codice fiscale o IBAN.</p>
+<p><strong>Backup.</strong> Se hai attivato il backup di iCloud o del computer, l'archivio e le preferenze dell'app sono compresi nel backup, come i dati delle altre app. Il backup è gestito da Apple o dal tuo computer secondo le relative condizioni: lo sviluppatore non vi ha accesso. Cedolino non usa la sincronizzazione iCloud né CloudKit. Cancellare i dati dall'app non li toglie dai backup già fatti.</p>
 
-<h2>2. Connessioni a internet</h2>
+<h2>2. Connessioni a internet e dati che arrivano allo sviluppatore</h2>
 <table>
-<tr><th>Connessione</th><th>Cosa viene inviato</th><th>Chi la riceve</th></tr>
-<tr><td>Download delle tavole fiscali aggiornate (al massimo ogni 6 ore, o quando tocchi "Controlla aggiornamenti")</td><td>Una richiesta di file pubblici (manifest e tavole firmate). Nessun dato personale, nessun identificativo, nessun cookie. Come per ogni connessione, il server vede l'indirizzo IP e informazioni tecniche della richiesta.</td><td>GitHub (raw.githubusercontent.com), fornitore di hosting, secondo la <a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement">propria informativa</a>. Lo sviluppatore non riceve né conserva questi dati.</td></tr>
-<tr><td>Acquisti in-app (Cedolino Pro)</td><td>Gestiti interamente dall'App Store</td><td>Apple, come titolare autonomo, secondo la <a href="https://www.apple.com/it/legal/privacy/">sua informativa</a>. Lo sviluppatore riceve da Apple solo resoconti di vendita aggregati.</td></tr>
+<tr><th>Quando</th><th>Cosa viene inviato</th><th>Chi lo riceve</th></tr>
+<tr><td>Download delle tavole fiscali aggiornate: al massimo ogni 6 ore, o quando tocchi "Controlla aggiornamenti"</td><td>Una richiesta HTTPS di file pubblici (manifest e tavole firmate). Non contiene i tuoi cedolini, il tuo profilo, identificativi o cookie. Come per ogni connessione, GitHub riceve l'indirizzo IP, data e ora e le informazioni tecniche che iOS aggiunge alla richiesta (per esempio nome e build dell'app, versione del sistema, lingua).</td><td>GitHub, Inc. (raw.githubusercontent.com), secondo la <a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement">propria informativa</a>. Lo sviluppatore non riceve questi dati e non ha accesso ai registri di GitHub.</td></tr>
+<tr><td>Acquisto o ripristino di Cedolino Pro</td><td>La richiesta passa dall'App Store tramite iOS</td><td>Apple, come titolare autonomo, secondo la <a href="https://www.apple.com/it/legal/privacy/">sua informativa</a>. Lo sviluppatore non riceve i tuoi dati di pagamento né il tuo ID Apple; riceve da Apple resoconti di vendita.</td></tr>
+<tr><td>Rapporti sui crash, solo se in iOS hai attivato Impostazioni → Privacy e sicurezza → Analisi e miglioramenti → "Condividi con gli sviluppatori di app"</td><td>Rapporti sui crash e dati diagnostici dell'app, raccolti da Apple</td><td>Apple, che li mette a disposizione dello sviluppatore</td></tr>
+<tr><td>Email all'assistenza, se scrivi a info@benedettoriba.it dalla tua app di posta</td><td>Indirizzo email, contenuto del messaggio ed eventuali allegati</td><td>Benedetto Riba e il suo fornitore di posta elettronica</td></tr>
 <tr><td>Link a questa pagina, al supporto e ai termini d'uso</td><td>Si aprono in Safari solo se li tocchi</td><td>I rispettivi siti</td></tr>
 </table>
-<p>L'app non contiene SDK di terze parti, pubblicità o strumenti di analisi. Se nelle impostazioni di iOS hai scelto di condividere i dati di analisi con gli sviluppatori, Apple può fornire allo sviluppatore rapporti sui crash in forma anonima.</p>
+<p>L'app non contiene SDK di terze parti, pubblicità o strumenti di analisi.</p>
 
 <h2>3. Titolare, trattamenti e basi giuridiche</h2>
+<p>Il Regolamento (UE) 2016/679 (GDPR) si applica ai trattamenti in cui lo sviluppatore è titolare, elencati qui sotto. Per i dati che restano sul tuo dispositivo lo sviluppatore non riceve nulla.</p>
 <table>
-<tr><th>Attività</th><th>Ruolo</th><th>Base giuridica</th></tr>
-<tr><td>Lettura, archivio e calcoli sul dispositivo</td><td>Avvengono sotto il tuo controllo sul tuo dispositivo. Lo sviluppatore non vi ha accesso e non riceve questi dati: per lui non c'è raccolta né trattamento sui propri sistemi.</td><td>Non applicabile allo sviluppatore. L'informativa al primo avvio descrive il funzionamento; non è una richiesta di consenso.</td></tr>
-<tr><td>Download delle tavole fiscali</td><td>GitHub tratta i dati tecnici della richiesta (indirizzo IP) come fornitore del servizio</td><td>Esecuzione del servizio che usi (art. 6.1.b GDPR) e legittimo interesse a fornire tavole aggiornate e verificate (art. 6.1.f)</td></tr>
-<tr><td>Acquisti e abbonamenti</td><td>Apple, titolare autonomo</td><td>Contratto tra te e Apple (art. 6.1.b)</td></tr>
-<tr><td>Richieste di assistenza via email</td><td>Benedetto Riba, titolare</td><td>Rispondere alla tua richiesta (art. 6.1.b e 6.1.f). Conservazione: il tempo necessario a gestirla e comunque non oltre 24 mesi.</td></tr>
+<tr><th>Attività</th><th>Ruolo</th><th>Base giuridica e conservazione</th></tr>
+<tr><td>Lettura, archivio e calcoli sul dispositivo</td><td>I dati sono trattati sul tuo dispositivo, per tuo uso. Lo sviluppatore ha progettato l'app ma non riceve questi dati e non vi ha accesso.</td><td>Nessuna raccolta da parte dello sviluppatore. L'informativa al primo avvio descrive il funzionamento; non è una richiesta di consenso.</td></tr>
+<tr><td>Download delle tavole fiscali</td><td>Lo sviluppatore ha scelto che l'app scarichi le tavole da GitHub e risponde di questa trasmissione. GitHub tratta i dati tecnici della richiesta come titolare autonomo, per i propri fini.</td><td>Legittimo interesse a fornire tavole aggiornate e verificate (art. 6, par. 1, lett. f). Se non vuoi questa connessione puoi usare l'app senza rete (per esempio in modalità aereo): verranno usate le tavole incluse nell'app o l'ultima versione già scaricata.</td></tr>
+<tr><td>Acquisti e abbonamenti</td><td>Apple, titolare autonomo</td><td>Contratto tra te e Apple (art. 6, par. 1, lett. b)</td></tr>
+<tr><td>Rapporti sui crash condivisi da Apple</td><td>Benedetto Riba, titolare dei dati che riceve da Apple</td><td>Legittimo interesse a correggere gli errori dell'app (art. 6, par. 1, lett. f). Usati solo per questo; la condivisione si attiva e si disattiva dalle impostazioni di iOS.</td></tr>
+<tr><td>Richieste di assistenza via email</td><td>Benedetto Riba, titolare; il fornitore di posta elettronica agisce per suo conto</td><td>Rispondere alla tua richiesta (art. 6, par. 1, lett. b, quando riguarda l'app che usi; altrimenti lett. f). Conservazione: il tempo necessario a gestirla e comunque non oltre 24 mesi dall'ultimo messaggio. Non allegare il cedolino se non è necessario.</td></tr>
 </table>
-<p>Eventuali trasferimenti fuori dall'Unione europea (GitHub, Apple) avvengono secondo le garanzie indicate dai rispettivi fornitori, come il Data Privacy Framework UE-USA o le clausole contrattuali standard.</p>
+<p>Eventuali trasferimenti fuori dall'Unione europea (GitHub, Apple, fornitore di posta) avvengono secondo le garanzie indicate dai rispettivi fornitori, come il Data Privacy Framework UE-USA o le clausole contrattuali standard.</p>
 
 <h2>4. Sicurezza</h2>
 <ul>
 <li>I file dell'archivio usano la protezione dati di iOS: sono cifrati con una chiave disponibile solo dopo lo sblocco del dispositivo.</li>
+<li>Nei backup la protezione dipende da come li hai impostati: per esempio la cifratura del backup sul computer o la protezione avanzata dei dati di iCloud.</li>
 <li>Le tavole fiscali scaricate sono firmate digitalmente (Ed25519): l'app le usa solo se la firma e le impronte SHA-256 sono corrette.</li>
 <li>Le connessioni usano HTTPS.</li>
 </ul>
 
 <h2>5. Cancellazione e diritti</h2>
-<p><strong>Impostazioni → Elimina tutti i miei dati</strong> cancella archivio, profilo, preferenze e tavole scaricate, e verifica che non resti nulla mostrandoti il risultato. La disinstallazione dell'app ha lo stesso effetto. Non vengono cancellati i backup già eseguiti (gestiti da Apple) né gli acquisti, che restano legati al tuo ID Apple.</p>
-<p>Hai i diritti previsti dagli articoli 15-22 del GDPR (accesso, rettifica, cancellazione, limitazione, portabilità, opposizione). Per i dati sul dispositivo li eserciti direttamente nell'app: i dati sono visibili, modificabili prima del salvataggio, esportabili in CSV (con Pro) e cancellabili. Per le email di assistenza scrivi a <a href="mailto:info@benedettoriba.it">info@benedettoriba.it</a>. Puoi proporre reclamo al <a href="https://www.garanteprivacy.it">Garante per la protezione dei dati personali</a>.</p>
+<p><strong>Impostazioni → Elimina tutti i miei dati</strong> cancella dall'iPhone archivio, profilo, preferenze e tavole scaricate, e verifica che non resti nulla mostrandoti il risultato. La disinstallazione dell'app ha lo stesso effetto sul dispositivo. Non vengono cancellati i backup già eseguiti, che gestisci da iCloud o dal computer, né gli acquisti, che restano legati al tuo ID Apple.</p>
+<p>Hai i diritti previsti dagli articoli 15-22 del GDPR (accesso, rettifica, cancellazione, limitazione, portabilità, opposizione). Per i dati sul dispositivo li eserciti direttamente nell'app: i dati sono visibili, modificabili prima del salvataggio, esportabili in CSV (con Pro) e cancellabili. Per le email di assistenza e per opporti ai trattamenti basati sul legittimo interesse scrivi a <a href="mailto:info@benedettoriba.it">info@benedettoriba.it</a>. Puoi proporre reclamo al <a href="https://www.garanteprivacy.it">Garante per la protezione dei dati personali</a>.</p>
 
 <h2>6. Minori</h2>
 <p>Cedolino è pensato per lavoratori dipendenti e non è rivolto ai minori di 14 anni.</p>
 
 <h2>7. Modifiche</h2>
-<p>Ogni modifica a questa informativa è pubblicata qui con nuova versione e data. Lo storico delle versioni è visibile nel <a href="https://github.com/Benedetto69/cedolino-privacy">repository pubblico</a>.</p>
+<p>Ogni modifica a questa informativa è pubblicata qui con nuova versione e data. Lo storico completo è visibile nel <a href="https://github.com/Benedetto69/cedolino-privacy">repository pubblico</a>.</p>
+<ul>
+<li>2.1 (12 ottobre 2026): precisati backup, contenuto delle richieste a GitHub, rapporti sui crash e assistenza via email; chiarito a quali trattamenti si applica il GDPR.</li>
+<li>2.0 (12 ottobre 2026): informativa riscritta sul comportamento verificato dell'app.</li>
+</ul>
 
 <p class="meta">Cedolino fornisce stime informative e non sostituisce il commercialista o il consulente del lavoro. <a href="support.html">Supporto</a></p>
 </body>
