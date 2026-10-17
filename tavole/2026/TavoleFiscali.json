@@ -1,0 +1,791 @@
+{
+  "schemaVersione": 1,
+  "versioneLogicaRichiesta": 1,
+  "versione": "2026.9",
+  "annoImposta": 2026,
+  "aggiornateAl": "2026-10-12",
+  "giorniAnno": 365,
+  "segnalazioni": [],
+  "registroModifiche": [
+    {
+      "data": "2026-10-17",
+      "versione": "2026.9",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 23 comuni aggiornati dal file ufficiale del Dipartimento Finanze (CARERI (RC), CARLANTINO (FG), CASALVECCHIO DI PUGLIA (FG), CASIGNANA (RC), CASSINA RIZZARDI (CO), CASTEL DEL PIANO (GR), CASTEL GANDOLFO (RM), CASTELPOTO (BN), CHIGNOLO PO (PV), COLLALTO SABINO (RI), CONDOFURI (RC), CORBETTA (MI), CURSI (LE), DEROVERE (CR), FILANDARI (VV) e altri 8).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
+    {
+      "data": "2026-10-16",
+      "versione": "2026.8",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 13 comuni aggiornati dal file ufficiale del Dipartimento Finanze (ALLUMIERE (RM), ALZATE BRIANZA (CO), ATINA (FR), ATRANI (SA), BAGNARA CALABRA (RC), BARBIANELLO (PV), BEDONIA (PR), BRACIGLIANO (SA), BREBBIA (VA), CALCINATE (BG), CAMEROTA (SA), CANTALICE (RI), PAOLA (CS)).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
+    {
+      "data": "2026-10-15",
+      "versione": "2026.7",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 17 comuni aggiornati dal file ufficiale del Dipartimento Finanze (FIRENZUOLA (FI), GALLESE (VT), GALLINARO (FR), GIUSSAGO (PV), GORLAGO (BG), LACEDONIA (AV), LASNIGO (CO), LATERA (VT), LAUREANA DI BORRELLO (RC), MALONNO (BS), MARCIANISE (CE), MASCIAGO PRIMO (VA), MENDICINO (CS), PERDIFUMO (SA), PIEDIMONTE MATESE (CE) e altri 2).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
+    {
+      "data": "2026-10-14",
+      "versione": "2026.6",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 12 comuni aggiornati dal file ufficiale del Dipartimento Finanze (ADRARA SAN ROCCO (BG), MERLINO (LO), MOLAZZANA (LU), MONTELEONE DI PUGLIA (FG), MOSCAZZANO (CR), MOTTA SAN GIOVANNI (RC), OLTRE IL COLLE (BG), OTTONE (PC), PAOLISI (BN), PIANE CRATI (CS), PIANICO (BG), POGLIANO MILANESE (MI)).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
+    {
+      "data": "2026-10-13",
+      "versione": "2026.5",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 32 comuni aggiornati dal file ufficiale del Dipartimento Finanze (CARATE BRIANZA (MB), CARONNO VARESINO (VA), CASLINO D'ERBA (CO), CASSIGLIO (BG), CASTEL DI CASIO (BO), CASTELFORTE (LT), CASTIGLIONE DELLE STIVIERE (MN), CERVICATI (CS), CICERALE (SA), CIMINA' (RC), COLLE SANNITA (BN), CORANA (PV), CUMIGNANO SUL NAVIGLIO (CR), MARZANO (PV), MONTELLO (BG) e altri 17).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
+    {
+      "data": "2026-10-12",
+      "versione": "2026.4",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 2 comuni aggiornati dal file ufficiale del Dipartimento Finanze (GIANICO (BS), GIURDIGNANO (LE)).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
+    {
+      "data": "2026-10-12",
+      "versione": "2026.3",
+      "voce": "irpef",
+      "descrizione": "Scaglioni 2026: 23% fino a 28.000 €, 33% da 28.000 a 50.000 € (prima 35%), 43% oltre.",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "L. 30/12/2025 n. 199, art. 1 c.3 — https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199 ; scheda AdE agg. 13/01/2026 — https://www.agenziaentrate.gov.it/portale/imposta-sul-reddito-delle-persone-fisiche-irpef-/aliquote-e-calcolo-dell-irpef"
+    },
+    {
+      "data": "2026-10-12",
+      "versione": "2026.3",
+      "voce": "detrazione-lavoro",
+      "descrizione": "Detrazione art. 13 sul reddito complessivo, con rapporti nelle prime 4 cifre decimali, minimi 690/1.380 € e maggiorazione di 65 € tra 25.000 e 35.000 € (non ragguagliata al periodo).",
+      "decorrenza": "1.955 € dal periodo d'imposta 2025; 65 € dal 2022",
+      "fonte": "Istruzioni 730/2026, Tabella 6 — https://www.agenziaentrate.gov.it/portale/documents/20143/9764684/730_+istruzioni_2026.pdf ; circolare AdE 4/E del 18/02/2022 — https://www.agenziaentrate.gov.it/portale/documents/20143/4169770/Circolare+n.+4+del+18+febbraio+2022.pdf"
+    },
+    {
+      "data": "2026-10-12",
+      "versione": "2026.3",
+      "voce": "cuneo",
+      "descrizione": "Somma esente 7,1% / 5,3% / 4,8% fino a 20.000 € e ulteriore detrazione di 1.000 € (decrescente fino a 40.000 €), calcolate sul reddito complessivo e non sulla RAL. Sostituisce gli importi fissi della versione 2026.2, che erano errati.",
+      "decorrenza": "Dal periodo d'imposta 2025, strutturale",
+      "fonte": "L. 30/12/2024 n. 207, art. 1 commi 4-9; circolare AdE 4/E del 16/05/2025 — https://www.agenziaentrate.gov.it/portale/documents/20143/8410823/Circolare+lavoro+dipendente+LB2025+DD+IRPEF+n.+4+del+16+maggio+2025.pdf"
+    },
+    {
+      "data": "2026-10-12",
+      "versione": "2026.3",
+      "voce": "trattamento-integrativo",
+      "descrizione": "Trattamento integrativo di 1.200 € fino a 15.000 € con capienza (detrazione ridotta di 75 €).",
+      "decorrenza": "Riduzione di 75 € a regime dal periodo d'imposta 2025",
+      "fonte": "D.L. 05/02/2020 n. 3, art. 1, modificato da L. 207/2024 art. 1 c.3; circolare AdE 4/E/2025 par. 1.1"
+    },
+    {
+      "data": "2026-10-12",
+      "versione": "2026.3",
+      "voce": "contributi",
+      "descrizione": "Massimale 122.295 € applicato solo a chi non ha contributi prima del 1996; contributo aggiuntivo 1% oltre 56.224 €; profili 9,19% (FPLD), 9,49% (con CIGS), 5,84% (apprendisti).",
+      "decorrenza": "Anno 2026",
+      "fonte": "INPS circ. n. 14 del 09/02/2026 — https://www.inps.it/content/dam/inps-site/it/scorporati/circolari-e-messaggi/2026/02/Circolare_15162/Allegati/16561_Circolare-numero-14-del-09-02-2026.pdf ; INPS circ. n. 88 del 31/10/2023"
+    },
+    {
+      "data": "2026-10-12",
+      "versione": "2026.3",
+      "voce": "addizionali-regionali",
+      "descrizione": "Regole 2026 di tutte le 19 regioni e 2 province autonome, con esenzioni, aliquote uniche sotto soglia, deduzioni e detrazioni. Puglia e Molise aggiornate alle pubblicazioni n. 2207 (29/05/2026) e n. 2227 (19/06/2026).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "Dipartimento Finanze, elenco generale 2026 — https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/addregirpef/download/tabella.htm"
+    },
+    {
+      "data": "2026-10-12",
+      "versione": "2026.3",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aliquote di tutti i 7.897 comuni: delibera 2026 se pubblicata, altrimenti aliquote 2025 in vigore per legge; 4 comuni con dati ufficiali non interpretabili segnalati come da verificare.",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "Dipartimento Finanze, elenchi generali — https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm ; art. 1 c.752 L. 207/2024"
+    }
+  ],
+  "fonti": {
+    "annoImposta": "Redditi 2026, da dichiarare con modello 730/2027 o REDDITI PF 2027. Il nuovo Testo unico imposte sui redditi (D.Lgs. 19/06/2026 n. 117, GU n. 152 del 03/07/2026) si applica dal 01/01/2027: per il 2026 resta il DPR 917/1986.",
+    "irpef": "Art. 11 c.1 TUIR come modificato da art. 1 c.3 L. 30/12/2025 n. 199 (GU n. 301 del 30/12/2025, S.O. n. 42): 23% fino a 28.000, 33% oltre 28.000 fino a 50.000, 43% oltre. Agenzia Entrate, scheda IRPEF aggiornata al 13/01/2026.",
+    "detrazioneLavoroDipendente": "Art. 13 c.1 e c.1.1 TUIR; circ. AdE 4/E del 16/05/2025 par. 1.1; istruzioni 730/2026 Tabella 6 (rapporti nelle prime 4 cifre decimali; minimi 690/1.380; +65 euro tra 25.001 e 35.000); circ. AdE 4/E del 18/02/2022 (i 65 euro non si ragguagliano al periodo).",
+    "trattamentoIntegrativo": "Art. 1 c.1 D.L. 05/02/2020 n. 3 (conv. L. 21/2020) come modificato da art. 1 c.3 L. 207/2024: 1.200 euro annui, rapportati al periodo, se reddito complessivo <= 15.000 e imposta lorda > detrazione art. 13 diminuita di 75 euro rapportati al periodo; tra 15.000 e 28.000 solo se le detrazioni elencate superano l'imposta lorda.",
+    "cuneoFiscale": "Art. 1 commi 4-9 L. 30/12/2024 n. 207; circ. AdE 4/E del 16/05/2025 par. 1.2. Non modificato dalla L. 199/2025.",
+    "contributi": "Massimale 122.295 euro solo per lavoratori privi di anzianità contributiva al 31/12/1995 (art. 2 c.18 L. 335/1995; INPS circ. n. 14 del 09/02/2026, che richiama la circ. n. 6 del 30/01/2026). Prima fascia di retribuzione pensionabile 2026: 56.224 euro; oltre, contributo aggiuntivo 1% (art. 3-ter D.L. 384/1992).",
+    "addizionaliRegionali": "Dipartimento Finanze, elenco generale addizionale regionale anno 2026 (download tipo=reg anno=2026, scaricato il 12/10/2026). Per ogni ente si usa la pubblicazione più recente. Dovuta solo se è dovuta l'IRPEF netta (art. 50 D.Lgs. 446/1997).",
+    "addizionaliComunali": "Dipartimento Finanze, elenchi generali addizionale comunale 2026 e 2025 (scaricati il 12/10/2026). Senza delibera 2026 pubblicata si applicano le aliquote 2025 (art. 1 c.752 L. 207/2024). Dati in AddizionaliComunali2026.json."
+  },
+  "irpef": {
+    "scaglioni": [
+      {
+        "limite": 28000,
+        "aliquota": 0.23
+      },
+      {
+        "limite": 50000,
+        "aliquota": 0.33
+      },
+      {
+        "limite": null,
+        "aliquota": 0.43
+      }
+    ]
+  },
+  "detrazioneLavoroDipendente": {
+    "soglia1": 15000,
+    "importoFascia1": 1955,
+    "minimoIndeterminato": 690,
+    "minimoDeterminato": 1380,
+    "soglia2": 28000,
+    "baseFascia2": 1910,
+    "variabileFascia2": 1190,
+    "soglia3": 50000,
+    "importoFascia3": 1910,
+    "decimaliRapporto": 4,
+    "maggiorazione": {
+      "redditoOltre": 25000,
+      "redditoFinoA": 35000,
+      "importo": 65
+    }
+  },
+  "trattamentoIntegrativo": {
+    "importoAnnuo": 1200,
+    "sogliaPiena": 15000,
+    "sogliaMassima": 28000,
+    "riduzioneDetrazioneCapienza": 75
+  },
+  "cuneoFiscale": {
+    "sommaSogliaRedditoComplessivo": 20000,
+    "sommaFasce": [
+      {
+        "redditoFinoA": 8500,
+        "percentuale": 0.071
+      },
+      {
+        "redditoFinoA": 15000,
+        "percentuale": 0.053
+      },
+      {
+        "redditoFinoA": null,
+        "percentuale": 0.048
+      }
+    ],
+    "detrazioneSogliaInferiore": 20000,
+    "detrazioneImportoPieno": 1000,
+    "detrazioneSogliaPiena": 32000,
+    "detrazioneSogliaAzzeramento": 40000
+  },
+  "contributi": {
+    "massimale": 122295,
+    "primaFasciaPensionabile": 56224,
+    "aliquotaAggiuntiva": 0.01,
+    "sogliaAliquotaPerAggiuntivo": 0.1,
+    "profili": [
+      {
+        "id": "fpld",
+        "nome": "Dipendente del settore privato",
+        "descrizione": "Fondo pensioni lavoratori dipendenti (FPLD): 9,19% a carico del lavoratore.",
+        "aliquota": 0.0919,
+        "fonte": "INPS circ. n. 88 del 31/10/2023: aliquota IVS 33%, di cui 9,19% a carico del lavoratore."
+      },
+      {
+        "id": "fpldCigs",
+        "nome": "Azienda soggetta a CIGS",
+        "descrizione": "9,19% FPLD più 0,30% di cassa integrazione straordinaria: 9,49%.",
+        "aliquota": 0.0949,
+        "fonte": "INPS, allegato 1 alla circ. n. 194 del 30/12/2014: totale a carico lavoratore 9,49% (9,19% + 0,30% CIGS)."
+      },
+      {
+        "id": "apprendista",
+        "nome": "Apprendista",
+        "descrizione": "5,84% a carico dell'apprendista.",
+        "aliquota": 0.0584,
+        "fonte": "INPS circ. n. 88 del 31/10/2023: 5,84% a carico del lavoratore apprendista."
+      }
+    ]
+  },
+  "addizionaliRegionali": [
+    {
+      "id": "abruzzo",
+      "nome": "Abruzzo",
+      "scaglioni": [
+        {
+          "limite": 28000,
+          "aliquota": 0.0167
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.0287
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0333
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2176 del 28/01/2026; L.R. Abruzzo 12/12/2006 n. 44 art. 1 c.8; L.R. 04/04/2025 n. 9 art. 1 c.1.",
+      "pubblicazioneFinanze": 2176
+    },
+    {
+      "id": "basilicata",
+      "nome": "Basilicata",
+      "scaglioni": [
+        {
+          "limite": null,
+          "aliquota": 0.0123
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2189 del 29/01/2026; art. 6 D.Lgs. 68/2011; art. 50 D.Lgs. 446/1997.",
+      "pubblicazioneFinanze": 2189
+    },
+    {
+      "id": "bolzano",
+      "nome": "Provincia autonoma di Bolzano",
+      "scaglioni": [
+        {
+          "limite": 28000,
+          "aliquota": 0.0123
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.0123
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0173
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [
+        {
+          "redditoOltre": null,
+          "redditoFinoA": 90000,
+          "importo": 430.5,
+          "lineare": null
+        },
+        {
+          "redditoOltre": 50000,
+          "redditoFinoA": null,
+          "importo": null,
+          "lineare": {
+            "da": 50000,
+            "ampiezza": 25000,
+            "massimo": 125
+          }
+        }
+      ],
+      "agevolazioniNonCalcolate": [
+        "Detrazione di 340 € per ogni figlio a carico, con reddito fino a 90.000 €.",
+        "La soglia di 90.000 € comprende anche redditi a cedolare secca, mance a imposta sostitutiva e redditi forfettari."
+      ],
+      "fonte": "Dip. Finanze pubbl. n. 2182 del 29/01/2026; L.P. Bolzano 11/08/1998 n. 9 art. 21/sexiesdecies.",
+      "pubblicazioneFinanze": 2182
+    },
+    {
+      "id": "calabria",
+      "nome": "Calabria",
+      "scaglioni": [
+        {
+          "limite": null,
+          "aliquota": 0.0173
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2180 del 29/01/2026; L.R. Calabria 07/08/2002 n. 30 art. 1; D.L. 216/2011 art. 29 c.14.",
+      "pubblicazioneFinanze": 2180
+    },
+    {
+      "id": "campania",
+      "nome": "Campania",
+      "scaglioni": [
+        {
+          "limite": 15000,
+          "aliquota": 0.0173
+        },
+        {
+          "limite": 28000,
+          "aliquota": 0.0296
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.032
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0333
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [
+        "Detrazione di 30 € per ogni figlio a carico, con almeno due figli e reddito fino a 28.000 €.",
+        "Detrazione di 40 € per ogni figlio con disabilità a carico, con reddito fino a 28.000 €."
+      ],
+      "fonte": "Dip. Finanze pubbl. n. 2188 del 29/01/2026; L.R. Campania 16/01/2014 n. 4; L.R. 30/03/2022 n. 7 art. 1.",
+      "pubblicazioneFinanze": 2188
+    },
+    {
+      "id": "emilia-romagna",
+      "nome": "Emilia-Romagna",
+      "scaglioni": [
+        {
+          "limite": 15000,
+          "aliquota": 0.0133
+        },
+        {
+          "limite": 28000,
+          "aliquota": 0.0193
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.0278
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0333
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2170 del 19/01/2026; L.R. Emilia-Romagna 20/12/2006 n. 19 art. 2, modificata da L.R. 31/03/2025 n. 1 e L.R. 25/07/2025 n. 9.",
+      "pubblicazioneFinanze": 2170
+    },
+    {
+      "id": "friuli-venezia-giulia",
+      "nome": "Friuli-Venezia Giulia",
+      "scaglioni": [
+        {
+          "limite": null,
+          "aliquota": 0.0123
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": {
+        "soglia": 15000,
+        "aliquota": 0.007
+      },
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2169 del 19/01/2026; L.R. FVG 25/07/2012 n. 14 art. 1 c.5: 0,70% fino a 15.000 €, oltre 1,23% sull'intero importo.",
+      "pubblicazioneFinanze": 2169
+    },
+    {
+      "id": "lazio",
+      "nome": "Lazio",
+      "scaglioni": [
+        {
+          "limite": 15000,
+          "aliquota": 0.0173
+        },
+        {
+          "limite": 28000,
+          "aliquota": 0.0333
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.0333
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0333
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": {
+        "soglia": 28000,
+        "aliquota": 0.0173
+      },
+      "deduzione": null,
+      "detrazioni": [
+        {
+          "redditoOltre": 28000,
+          "redditoFinoA": 30000,
+          "importo": 60,
+          "lineare": null
+        }
+      ],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2174 del 22/01/2026; L.R. Lazio 31/12/2025 n. 20 art. 2 c.2 e c.3.",
+      "pubblicazioneFinanze": 2174
+    },
+    {
+      "id": "liguria",
+      "nome": "Liguria",
+      "scaglioni": [
+        {
+          "limite": 28000,
+          "aliquota": 0.0123
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.0318
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0323
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2177 del 28/01/2026; L.R. Liguria 09/10/2024 n. 17 art. 2-bis, modificata da L.R. 31/03/2025 n. 3.",
+      "pubblicazioneFinanze": 2177
+    },
+    {
+      "id": "lombardia",
+      "nome": "Lombardia",
+      "scaglioni": [
+        {
+          "limite": 15000,
+          "aliquota": 0.0123
+        },
+        {
+          "limite": 28000,
+          "aliquota": 0.0158
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.0172
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0173
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2179 del 28/01/2026; L.R. Lombardia 14/07/2003 n. 10 art. 72 c.1.",
+      "pubblicazioneFinanze": 2179
+    },
+    {
+      "id": "marche",
+      "nome": "Marche",
+      "scaglioni": [
+        {
+          "limite": 15000,
+          "aliquota": 0.0123
+        },
+        {
+          "limite": 28000,
+          "aliquota": 0.0153
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.017
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0173
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [
+        "Aliquota 1,23% per chi ha reddito fino a 50.000 € e figli con disabilità (L. 104/1992) a carico."
+      ],
+      "fonte": "Dip. Finanze pubbl. n. 2171 del 22/01/2026; L.R. Marche 23/03/2022 n. 5 art. 1; L. 207/2024 art. 1 c.728.",
+      "pubblicazioneFinanze": 2171
+    },
+    {
+      "id": "molise",
+      "nome": "Molise",
+      "scaglioni": [
+        {
+          "limite": 15000,
+          "aliquota": 0.0203
+        },
+        {
+          "limite": 28000,
+          "aliquota": 0.0223
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.0363
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0363
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2227 del 19/06/2026 (sostituisce la n. 2186 del 29/01/2026); L.R. Molise n. 9/2013 art. 2; L. 311/2004 art. 1 c.174; L. 191/2009 art. 2 c.86.",
+      "pubblicazioneFinanze": 2227
+    },
+    {
+      "id": "piemonte",
+      "nome": "Piemonte",
+      "scaglioni": [
+        {
+          "limite": 15000,
+          "aliquota": 0.0162
+        },
+        {
+          "limite": 28000,
+          "aliquota": 0.0268
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.0331
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0333
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [
+        "Detrazione di 100 € per ogni figlio a carico, per chi ha più di due figli a carico.",
+        "Detrazione di 500 € per ogni figlio con disabilità (L. 104/1992) a carico."
+      ],
+      "fonte": "Dip. Finanze pubbl. n. 2187 del 29/01/2026; L.R. Piemonte 28/03/2022 n. 4; L.R. 06/08/2025 n. 16.",
+      "pubblicazioneFinanze": 2187
+    },
+    {
+      "id": "puglia",
+      "nome": "Puglia",
+      "scaglioni": [
+        {
+          "limite": 15000,
+          "aliquota": 0.0133
+        },
+        {
+          "limite": 28000,
+          "aliquota": 0.0213
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.0323
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0333
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [
+        "Detrazione di 20 € per ogni figlio a carico, per chi ha più di tre figli; aumentata di 375 € per ogni figlio con disabilità."
+      ],
+      "fonte": "Dip. Finanze pubbl. n. 2207 del 29/05/2026 (decreto del Commissario ad acta n. 3 del 28/05/2026, art. 1 c.174 L. 311/2004), sostituisce la n. 2178 del 28/01/2026; L.R. Puglia 29/12/2015 n. 40 art. 3.",
+      "pubblicazioneFinanze": 2207
+    },
+    {
+      "id": "sardegna",
+      "nome": "Sardegna",
+      "scaglioni": [
+        {
+          "limite": null,
+          "aliquota": 0.0123
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [
+        "Detrazione di 200 € per ogni figlio minorenne a carico (+100 € se con disabilità), con reddito fino a 50.000 €."
+      ],
+      "fonte": "Dip. Finanze pubbl. n. 2184 del 29/01/2026; L.R. Sardegna 48/2018 art. 2; L.R. 11/07/2022 n. 13 art. 1.",
+      "pubblicazioneFinanze": 2184
+    },
+    {
+      "id": "sicilia",
+      "nome": "Sicilia",
+      "scaglioni": [
+        {
+          "limite": null,
+          "aliquota": 0.0123
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2183 del 29/01/2026; art. 50 D.Lgs. 446/1997; L.R. Sicilia 02/05/2007 n. 12 art. 1.",
+      "pubblicazioneFinanze": 2183
+    },
+    {
+      "id": "toscana",
+      "nome": "Toscana",
+      "scaglioni": [
+        {
+          "limite": 15000,
+          "aliquota": 0.0142
+        },
+        {
+          "limite": 28000,
+          "aliquota": 0.0143
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.0332
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0333
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2190 del 30/01/2026; L.R. Toscana 28/12/2023 n. 48 art. 1.",
+      "pubblicazioneFinanze": 2190
+    },
+    {
+      "id": "trento",
+      "nome": "Provincia autonoma di Trento",
+      "scaglioni": [
+        {
+          "limite": 15000,
+          "aliquota": 0.0123
+        },
+        {
+          "limite": 28000,
+          "aliquota": 0.0123
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.0123
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0173
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": {
+        "redditoFinoA": 30000,
+        "importo": 30000
+      },
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [
+        "Detrazione di 246 € per ogni figlio a carico, con reddito fino a 50.000 €."
+      ],
+      "fonte": "Dip. Finanze pubbl. n. 2172 del 22/01/2026; L.P. Trento 23/12/2019 n. 13 art. 1, modificata da L.P. 29/12/2025 n. 11.",
+      "pubblicazioneFinanze": 2172
+    },
+    {
+      "id": "umbria",
+      "nome": "Umbria",
+      "scaglioni": [
+        {
+          "limite": 15000,
+          "aliquota": 0.0173
+        },
+        {
+          "limite": 28000,
+          "aliquota": 0.0302
+        },
+        {
+          "limite": 50000,
+          "aliquota": 0.0312
+        },
+        {
+          "limite": null,
+          "aliquota": 0.0333
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": {
+        "soglia": 28000,
+        "aliquota": 0.0123
+      },
+      "deduzione": null,
+      "detrazioni": [
+        {
+          "redditoOltre": 28000,
+          "redditoFinoA": 50000,
+          "importo": 150,
+          "lineare": null
+        }
+      ],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2168 del 19/01/2026; L.R. Umbria 11/04/2025 n. 2 art. 1: fino a 28.000 € non si applicano le maggiorazioni (resta l'1,23%); detrazione di 150 € tra 28.001 e 50.000 €.",
+      "pubblicazioneFinanze": 2168
+    },
+    {
+      "id": "valle-d-aosta",
+      "nome": "Valle d'Aosta",
+      "scaglioni": [
+        {
+          "limite": null,
+          "aliquota": 0.0123
+        }
+      ],
+      "esenzioneFinoA": 15000,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [],
+      "fonte": "Dip. Finanze pubbl. n. 2167 del 19/01/2026; L.R. Valle d'Aosta 23/12/2025 n. 29 art. 1: esenti i redditi fino a 15.000 €, oltre 1,23% sull'intero imponibile.",
+      "pubblicazioneFinanze": 2167
+    },
+    {
+      "id": "veneto",
+      "nome": "Veneto",
+      "scaglioni": [
+        {
+          "limite": null,
+          "aliquota": 0.0123
+        }
+      ],
+      "esenzioneFinoA": null,
+      "aliquotaUnicaFinoA": null,
+      "deduzione": null,
+      "detrazioni": [],
+      "agevolazioniNonCalcolate": [
+        "Aliquota 0,9% per contribuenti con disabilità o con un familiare con disabilità a carico, con reddito fino a 50.000 €."
+      ],
+      "fonte": "Dip. Finanze pubbl. n. 2173 del 22/01/2026; L.R. Veneto 19/2005 art. 1 c.5, modificata da L.R. 30/2022 art. 9.",
+      "pubblicazioneFinanze": 2173
+    }
+  ]
+}
