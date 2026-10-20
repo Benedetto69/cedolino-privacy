@@ -1,12 +1,20 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.10",
+  "versione": "2026.11",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
   "segnalazioni": [],
   "registroModifiche": [
+    {
+      "data": "2026-10-20",
+      "versione": "2026.11",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 40 comuni aggiornati dal file ufficiale del Dipartimento Finanze (ACQUAPENDENTE (VT), ARCEVIA (AN), ARNESANO (LE), BENE LARIO (CO), BISACCIA (AV), BOSISIO PARINI (LC), BOTRICELLO (CZ), BRENTA (VA), CAIANELLO (CE), CAIVANO (NA), CAMPOSANO (NA), CAPRAROLA (VT), COLOSIMI (CS), MILETO (VV), MONTEGALLO (AP) e altri 25).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-10-19",
       "versione": "2026.10",
