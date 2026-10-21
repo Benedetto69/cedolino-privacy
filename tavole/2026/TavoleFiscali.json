@@ -1,12 +1,20 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.11",
+  "versione": "2026.12",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
   "segnalazioni": [],
   "registroModifiche": [
+    {
+      "data": "2026-10-21",
+      "versione": "2026.12",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 16 comuni aggiornati dal file ufficiale del Dipartimento Finanze (ACQUAVIVA DELLE FONTI (BA), ARCE (FR), AVETRANA (TA), BELMONTE IN SABINA (RI), BESENZONE (PC), BIANZONE (SO), CALENDASCO (PC), CAMPAGNANO DI ROMA (RM), CANONICA D'ADDA (BG), CAPERGNANICA (CR), FIESSE (BS), GATTATICO (RE), LACCO AMENO (NA), LAPPANO (CS), PEDIVIGLIANO (CS) e altri 1).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-10-20",
       "versione": "2026.11",
