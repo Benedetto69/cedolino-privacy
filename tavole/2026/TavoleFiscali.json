@@ -1,12 +1,20 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.12",
+  "versione": "2026.13",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
   "segnalazioni": [],
   "registroModifiche": [
+    {
+      "data": "2026-10-22",
+      "versione": "2026.13",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 42 comuni aggiornati dal file ufficiale del Dipartimento Finanze (ALBAREDO D'ADIGE (VR), AMELIA (TR), ANCARANO (TE), ARBA (PN), AZZIO (VA), BADIA PAVESE (PV), BELMONTE PICENO (FM), BERTONICO (LO), BOCCHIGLIERO (CS), CANNALONGA (SA), CAPISTRELLO (AQ), CASSINELLE (AL), CASTINO (CN), COLLECORVINO (PE), COMIGNAGO (NO) e altri 27).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-10-21",
       "versione": "2026.12",
