@@ -1,12 +1,20 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.13",
+  "versione": "2026.14",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
   "segnalazioni": [],
   "registroModifiche": [
+    {
+      "data": "2026-10-23",
+      "versione": "2026.14",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 63 comuni aggiornati dal file ufficiale del Dipartimento Finanze (ACUTO (FR), ANGHIARI (AR), AQUINO (FR), ARCUGNANO (VI), BIASSONO (MB), BOBBIO PELLICE (TO), BOCCIOLETO (VC), BOLZANO NOVARESE (NO), BOVALINO (RC), BRONDELLO (CN), BURIASCO (TO), BUTTIGLIERA D'ASTI (AT), CALAMANDRANA (AT), CAMPOROTONDO ETNEO (CT), CANDIDONI (RC) e altri 48).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-10-22",
       "versione": "2026.13",
