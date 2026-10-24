@@ -1,12 +1,20 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.14",
+  "versione": "2026.15",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
   "segnalazioni": [],
   "registroModifiche": [
+    {
+      "data": "2026-10-24",
+      "versione": "2026.15",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 48 comuni aggiornati dal file ufficiale del Dipartimento Finanze (ABBASANTA (OR), ACQUASANTA TERME (AP), ARRE (PD), ASIGLIANO VERCELLESE (VC), ATRI (TE), CANTIANO (PU), CAREMA (TO), CASTEL BOGLIONE (AT), CENTALLO (CN), CIVEZZA (IM), CIVITELLA ALFEDENA (AQ), DIANO D'ALBA (CN), FERRAZZANO (CB), FRANCAVILLA IN SINNI (PZ), FRATTA TODINA (PG) e altri 33).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-10-23",
       "versione": "2026.14",
