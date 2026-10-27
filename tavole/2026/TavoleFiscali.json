@@ -1,12 +1,28 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.16",
+  "versione": "2026.17",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
-  "segnalazioni": [],
+  "segnalazioni": [
+    {
+      "id": "comune-H694",
+      "voce": "addizionale-comunale:H694",
+      "descrizione": "Addizionale comunale di SALE: nuovi dati ufficiali non interpretabili (Dati del Dipartimento Finanze non interpretabili con certezza: intervallo non crescente 'Applicabile a scaglione di reddito fino a euro 15.000.00'). In uso l'ultima versione verificata.",
+      "dal": "2026-10-27",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    }
+  ],
   "registroModifiche": [
+    {
+      "data": "2026-10-27",
+      "versione": "2026.17",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 42 comuni aggiornati dal file ufficiale del Dipartimento Finanze (ACQUAPPESA (CS), AIETA (CS), ALESSANO (LE), AMATRICE (RI), BARILE (PZ), BASCIANO (TE), BEDERO VALCUVIA (VA), BELCASTRO (CZ), BELVEDERE DI SPINELLO (KR), BIANCO (RC), BORNO (BS), BRESSANVIDO (VI), CALVIGNANO (PV), CAMIGLIANO (CE), CAMPOMAGGIORE (PZ) e altri 27); 1 comuni con nuovi dati non interpretabili (SALE): conservata l'ultima versione verificata e segnalati come in verifica.",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-10-26",
       "versione": "2026.16",
