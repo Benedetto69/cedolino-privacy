@@ -1,7 +1,7 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.17",
+  "versione": "2026.18",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
@@ -15,6 +15,14 @@
     }
   ],
   "registroModifiche": [
+    {
+      "data": "2026-10-28",
+      "versione": "2026.18",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 17 comuni aggiornati dal file ufficiale del Dipartimento Finanze (ARRONE (TR), BAGNOLI DEL TRIGNO (IS), BONVICINO (CN), CASTIGLIONE DI GARFAGNANA (LU), FICULLE (TR), FONTECCHIO (AQ), ISOLABONA (IM), PALAIA (PI), PONTERANICA (BG), ROSE (CS), SAN GIOVANNI INCARICO (FR), SAN MARTINO SANNITA (BN), SANTHIA' (VC), SANT'ILARIO DELLO IONIO (RC), SARONNO (VA) e altri 2).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-10-27",
       "versione": "2026.17",
