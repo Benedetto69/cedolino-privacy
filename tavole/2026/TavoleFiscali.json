@@ -1,7 +1,7 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.18",
+  "versione": "2026.19",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
@@ -15,6 +15,14 @@
     }
   ],
   "registroModifiche": [
+    {
+      "data": "2026-10-29",
+      "versione": "2026.19",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 8 comuni aggiornati dal file ufficiale del Dipartimento Finanze (FRANCOFONTE (SR), PAGLIARA (ME), PONTEBBA (UD), PREGNANA MILANESE (MI), SAN POTITO SANNITICO (CE), SAN RUFO (SA), SANTA MARINELLA (RM), SANT'ANGELO ALL'ESCA (AV)).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-10-28",
       "versione": "2026.18",
