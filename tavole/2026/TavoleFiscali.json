@@ -1,7 +1,7 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.19",
+  "versione": "2026.20",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
@@ -15,6 +15,14 @@
     }
   ],
   "registroModifiche": [
+    {
+      "data": "2026-10-30",
+      "versione": "2026.20",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 6 comuni aggiornati dal file ufficiale del Dipartimento Finanze (ALLUVIONI PIOVERA (AL), BELVEDERE LANGHE (CN), GROGNARDO (AL), MISSANELLO (PZ), SUTRI (VT), TRAMUTOLA (PZ)).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-10-29",
       "versione": "2026.19",
