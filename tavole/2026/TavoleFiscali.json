@@ -1,7 +1,7 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.21",
+  "versione": "2026.22",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
@@ -15,6 +15,14 @@
     }
   ],
   "registroModifiche": [
+    {
+      "data": "2026-11-04",
+      "versione": "2026.22",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 10 comuni aggiornati dal file ufficiale del Dipartimento Finanze (FILETTINO (FR), POSTIGLIONE (SA), PUSIANO (CO), ROCCAGORGA (LT), ROGENO (LC), SALISANO (RI), SAN BENEDETTO ULLANO (CS), SAN FERDINANDO (RC), SAN PIETRO VERNOTICO (BR), SANTA CRISTINA D'ASPROMONTE (RC)).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-11-03",
       "versione": "2026.21",
