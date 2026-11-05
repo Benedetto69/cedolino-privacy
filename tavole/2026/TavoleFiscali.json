@@ -1,7 +1,7 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.22",
+  "versione": "2026.23",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
@@ -15,6 +15,14 @@
     }
   ],
   "registroModifiche": [
+    {
+      "data": "2026-11-05",
+      "versione": "2026.23",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 36 comuni aggiornati dal file ufficiale del Dipartimento Finanze (PONNA (CO), PONZA (LT), PORTO VALTRAVAGLIA (VA), POZZAGLIO ED UNITI (CR), POZZUOLI (NA), PUGLIANELLO (BN), RICADI (VV), RIVAROLO MANTOVANO (MN), ROCCA DI NETO (KR), ROCCADASPIDE (SA), ROCCAMONFINA (CE), ROCCELLA IONICA (RC), RODANO (MI), ROVATO (BS), SABAUDIA (LT) e altri 21).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-11-04",
       "versione": "2026.22",
