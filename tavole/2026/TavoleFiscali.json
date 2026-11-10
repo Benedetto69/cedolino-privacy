@@ -1,7 +1,7 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.26",
+  "versione": "2026.27",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
@@ -15,6 +15,14 @@
     }
   ],
   "registroModifiche": [
+    {
+      "data": "2026-11-10",
+      "versione": "2026.27",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 3 comuni aggiornati dal file ufficiale del Dipartimento Finanze (CARAVONICA (IM), MESAGNE (BR), POMPEIANA (IM)).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-11-09",
       "versione": "2026.26",
