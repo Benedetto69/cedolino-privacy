@@ -1,7 +1,7 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.30",
+  "versione": "2026.31",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
@@ -12,9 +12,24 @@
       "descrizione": "Addizionale comunale di SALE: nuovi dati ufficiali non interpretabili (Dati del Dipartimento Finanze non interpretabili con certezza: intervallo non crescente 'Applicabile a scaglione di reddito fino a euro 15.000.00'). In uso l'ultima versione verificata.",
       "dal": "2026-10-27",
       "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
+    {
+      "id": "comune-H378",
+      "voce": "addizionale-comunale:H378",
+      "descrizione": "Addizionale comunale di ROBURENT: nuovi dati ufficiali non interpretabili (Dati del Dipartimento Finanze non interpretabili con certezza: primo scaglione non parte da zero (8001.00)). In uso l'ultima versione verificata.",
+      "dal": "2026-11-18",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
     }
   ],
   "registroModifiche": [
+    {
+      "data": "2026-11-18",
+      "versione": "2026.31",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 13 comuni aggiornati dal file ufficiale del Dipartimento Finanze (ALTAVILLA VICENTINA (VI), BELLIZZI (SA), CAMPOBELLO DI MAZARA (TP), DUINO-AURISINA (TS), FILIANO (PZ), FRANCAVILLA DI SICILIA (ME), GIULIANA (PA), MONFALCONE (GO), ORCO FEGLINO (SV), PETTORANELLO DEL MOLISE (IS), RADDA IN CHIANTI (SI), SAN TEODORO (SS), TORTORETO (TE)); 1 comuni con nuovi dati non interpretabili (ROBURENT): conservata l'ultima versione verificata e segnalati come in verifica.",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-11-17",
       "versione": "2026.30",
