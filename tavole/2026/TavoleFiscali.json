@@ -1,7 +1,7 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.33",
+  "versione": "2026.34",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
@@ -22,6 +22,14 @@
     }
   ],
   "registroModifiche": [
+    {
+      "data": "2026-11-25",
+      "versione": "2026.34",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 1 comuni aggiornati dal file ufficiale del Dipartimento Finanze (LUISAGO (CO)).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-11-23",
       "versione": "2026.33",
