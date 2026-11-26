@@ -1,7 +1,7 @@
 {
   "schemaVersione": 1,
   "versioneLogicaRichiesta": 1,
-  "versione": "2026.34",
+  "versione": "2026.35",
   "annoImposta": 2026,
   "aggiornateAl": "2026-10-12",
   "giorniAnno": 365,
@@ -22,6 +22,14 @@
     }
   ],
   "registroModifiche": [
+    {
+      "data": "2026-11-26",
+      "versione": "2026.35",
+      "voce": "addizionali-comunali",
+      "descrizione": "Aggiornamento automatico: 5 comuni aggiornati dal file ufficiale del Dipartimento Finanze (GAIBA (RO), REZZATO (BS), SAN CARLO CANAVESE (TO), SAN COSMO ALBANESE (CS), SAN MARTINO DI FINITA (CS)).",
+      "decorrenza": "Periodo d'imposta 2026",
+      "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_addcomirpef/download/tabella.htm"
+    },
     {
       "data": "2026-11-25",
       "versione": "2026.34",
